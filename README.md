@@ -2,8 +2,8 @@
 - 👀 I’m interested in Full stack development 
 - 🌱 I’m currently learning react JS
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... email : mohammedfarooq78866@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me ...  mohammedfarooq78866@gmail.com
+- 😄 Pronouns: ... Farooq
 
 
 <!---
